@@ -1,4 +1,4 @@
-# Cryptocurrency Spreadsheet Utils
+# Cryptocurrency Spreadsheet Utils (THAI BATH VERSION)
 
 Useful cryptocurrency tools (like getting the current price, of Bitcoin, Ethereum) for Google Spreadsheets.
 
@@ -94,3 +94,4 @@ There are two ways to use it:
 ## About
 
 Built by Brad Jasper (http://bradjasper.com)
+Modified Thai Bath version by DeEn  
