@@ -4,9 +4,9 @@ Useful cryptocurrency tools (like getting the current price, of Bitcoin, Ethereu
 
 This is the utility script used in the Cryptocurrency Financial Spreadsheet:
 
-https://docs.google.com/spreadsheets/d/1lnE260-F7TSs6onegSVYgRAP0ZZeuUy2YsfO2Ww_eJY/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/11P8EZGUQsHKIFgXCflZe2Yl_AHzKvtSfY-ZLCg4_Oa8/edit?usp=sharing
 
-![Cryptocurrency Financial Spreadsheet](screenshot.png)
+![Cryptocurrency Financial Spreadsheet](http://www.deen.site/uppic/pics/ff9f12618bfd28e7a736caf10d18dac9.png)
 
 The easiest way to use it is to make a copy of the spreadsheet above.
 
