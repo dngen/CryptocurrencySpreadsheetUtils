@@ -504,11 +504,12 @@ function onOpen() {
   var ui = SpreadsheetApp.getUi();
   ui.createMenu('Cryptocurrency').addItem('Refresh Prices', 'refresh').addToUi();
 }
-  Review the API documentation below to see specific attributes.
+  /**Review the API documentation below to see specific attributes.
   
   
   Created by Brad Jasper (http://bradjasper.com/)
-
+  
+  forked v0.6 — 31/3/2018 - Thai Bath version by DeEn
   v0.6 — 12/13/2017 — Cleaned up code (thanks @jeromedalbert)
   v0.5 — 11/26/2017 — Fixed multi-coin issue by sorting coins (thanks @jeromedalbert)
   v0.4 — 11/09/2017 — Fixed limit with CoinMarketCap API reponses
