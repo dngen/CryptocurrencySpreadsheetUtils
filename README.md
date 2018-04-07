@@ -1,4 +1,4 @@
-# Cryptocurrency Spreadsheet Utils (THAI BATH VERSION)
+# Cryptocurrency Spreadsheet Utils (THAI BAHT VERSION)
 
 Useful cryptocurrency tools (like getting the current price, of Bitcoin, Ethereum) for Google Spreadsheets.
 
@@ -84,7 +84,7 @@ There are two ways to use it:
 
 ## Versions
 
-- forked v0.6 — 31/3/2018 - Thai Bath version by DeEn
+- forked v0.6 — 31/3/2018 - Thai Baht version by DeEn
 - v0.6 — 12/13/2017 — Cleaned up code (thanks @jeromedalbert)
 - v0.5 — 11/26/2017 — Fixed multi-coin issue by sorting coins (thanks @jeromedalbert)
 - v0.4 — 11/09/2017 — Fixed limit with CoinMarketCap API reponses
@@ -96,5 +96,5 @@ There are two ways to use it:
 
 Built by Brad Jasper (http://bradjasper.com)
 
-Modified Thai Bath version by DeEn  
+Modified Thai Baht version by DeEn  
 
